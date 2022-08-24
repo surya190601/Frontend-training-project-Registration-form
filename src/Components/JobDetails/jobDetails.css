@@ -1,0 +1,23 @@
+.box {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 28px 49px 28px 49px;
+  border: 1px solid rgba(229, 229, 229, 1);
+  border-radius: 10px;
+}
+.JobProfile {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 17px;
+  color: #000000;
+  margin-bottom: 11px;
+}
+.JobProfileInput {
+  background: #e5e5e5;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  opacity: 0.5;
+  padding: 22.5px 19px;
+}

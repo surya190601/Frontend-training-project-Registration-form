@@ -1,0 +1,24 @@
+.footer-text {
+  position: absolute;
+  width: 180px;
+  height: 11px;
+  left: 659px;
+  top: 15px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 11px;
+  color: #000000;
+  opacity: 0.5;
+  padding-bottom: 10px;
+}
+.footer {
+  position: absolute;
+  width: 1470px;
+  height: 0px;
+  left: 0px;
+  top: 3507px;
+
+  border: 1px solid #000000;
+}

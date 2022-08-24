@@ -1,0 +1,22 @@
+.div-header {
+  background-color: rgba(141, 25, 255, 0.7);
+  padding: 41px 0 45px 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.text1 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+  color: #ffffff;
+}
+.text2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 41px;
+  color: #ffffff;
+}
+ 

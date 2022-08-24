@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Required {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+  margin-bottom: 21px;
+}
+.Requiredform {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  color: #000000;
+  margin-bottom: 39px;
+}
+.JobDetail {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+.PersonalDetail {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+  margin-top: 42px;
+}
+.EducationalDetails {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  /* identical to box height */
+  color: #000000;
+}
+.ATTACHMENTS {
+  font-family: "Hind";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 38px;
+
+  color: #000000;
+}
+.SUBMIT-button {
+  background: #8d19ff;
+  border-radius: 13px;
+}

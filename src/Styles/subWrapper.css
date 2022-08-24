@@ -1,0 +1,14 @@
+.subWrapper-title {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+  margin-bottom: 18px;
+}
+
+.subWrapper-body{
+  background: #f9f9f9;
+  border-radius: 10px;
+  padding: 26px 21px;
+  margin-bottom: 40px;
+}

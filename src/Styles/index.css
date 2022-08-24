@@ -1,0 +1,74 @@
+.header-card {
+  background-color: rgba(141, 25, 255, 0.7);
+  padding: 41px 0 45px 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.header-Label1 {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+  color: #ffffff;
+}
+.header-Label2 {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 41px;
+  text-align: center;
+  color: #ffffff;
+}
+.wrapper-container {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 39px 49px 35px 49px;
+  border: 1px solid rgba(229, 229, 229, 1);
+  border-radius: 10px;
+  margin-top: 22px;
+  
+}
+.wrapper-text {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.input-container {
+  width: 100%;
+  height: 68px;
+  padding-left: 13px;
+  border-radius: 10px;
+  background: #ffffff;
+  border: 1px solid #686868;
+  border-radius: 10px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  outline: none;
+  padding-right:25px;
+}
+
+.input-container::placeholder {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #686868;
+}
+.input-container:focus  {
+  border:2px solid #8D19FF;
+}
+.input-label {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+
+  color: #000000;
+  margin-bottom: 12px;
+}
